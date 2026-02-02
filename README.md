@@ -27,10 +27,10 @@ It helps users track job applications, manage application details, and stay orga
 📸 Screenshots
 
 <p float="left">
-  <img src="screenshots/job_list.png" width="150"/>
-  <img src="screenshots/job_details.png" width="150"/>
-  <img src="screenshots/add_job.png" width="150"/>
-  <img src="screenshots/edit_job.png" width="150"/>
+  <img src="screenshots/job_list.png" width="170"/>
+  <img src="screenshots/add_job.png" width="170"/>
+  <img src="screenshots/job_details.png" width="170"/>
+  <img src="screenshots/edit_job.png" width="170"/>
 </p>
 
 ▶️ How to Run
