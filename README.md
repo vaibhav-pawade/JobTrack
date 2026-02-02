@@ -1,7 +1,6 @@
 📋 JobTrack
 
-JobTrack is a simple Android application built using Jetpack Compose.  
-It helps users track job applications, manage application details, and stay organized in one place.
+JobTrack is an Android application that helps users track job applications, manage application details, and stay organized throughout the job search process.
 
 ✨ Features
 
